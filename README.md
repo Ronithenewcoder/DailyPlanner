@@ -16,3 +16,5 @@ A peer assisted me with the color coding if/else statement.
 ## Picture
 ![Alt text](image.png)
 
+## Deployed Application Link
+https://ronithenewcoder.github.io/DailyPlanner/
